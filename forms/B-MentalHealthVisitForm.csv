@@ -1,0 +1,32 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow Decimal?,Absolute Low,Absolute High
+3ced9c02-26fe-102b-80cb-0017a47871b2,,PIH:PSYCHOSOCIAL COUNSELING,"MH, Psychosocial counseling",Psychosocial counseling,,,MIsc,N/A,,,,,
+45538d51-cddb-47b1-87c9-2eee13025eed,,PIH:Psychoeducation,"MH, Psychoeducation",Psychoeducation,,,Misc,N/A,,,,,
+165973AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165973,"MH, Psychological first aid (PFA)",Psychological first aid (PFA),,,Misc,N/A,,,,,
+165328AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165328,"MH, HIV positive counseling",HIV positive counseling,,,Misc,N/A,,,,,
+9d8fdea7-df74-4f65-94a5-961bc6057a04,,PIH:10646,"MH, Safety Planning",Safety Planning,,,Misc,N/A,,,,,
+023720b2-e361-4736-afe0-a48716db3dda,,PIH-BAH-MH:AdherenceCounselling,"MH, Adherence?counselling",Adherence?counselling,,,Misc,N/A,,,,,
+e72f7f41-04f8-4c3a-bc26-287482c63568,,CIEL:163311; PIH:Mental health intervention,"MH, Intervention",Mental health intervention,,,Misc,coded,"MH, Psychosocial counseling;
+MH, Psychoeducation;
+MH, Psychological first aid (PFA);
+MH, HIV positive counseling;
+MH, Safety Planning;
+MH, Adherence?counselling",,,,
+b17b8923-3008-4616-acad-a61d5d8ef119,,PIH-BAH-MH:PsychologicalInterventions,"MH, Psychological Interventions",Psychological Interventions,,,Misc,N/A,,"MH, Intervention",,,
+b17b8923-3008-4616-acad-a61d5d8ef419,,PIH-BAH-MH:PatientHasPsychotropicMedication,"MH, Does this patient have psychotropic medication",Does this patient have psychotropic medication?,,,Misc,Boolean,,,,,
+3b4c3d72-46a9-4db8-a611-7325c14a9efd,,PIH-BAH-MH:Yes,"MH, if yes, name of the drug","if yes, name of the drug",,,Misc,Text,,,,,
+3489ee13-874e-4a66-aa97-6b6646dfee10,,PIH-BAH-MH:Medications,"MH, Medications",Medications,,,Misc,N/A,,"MH, Does this patient have psychotropic medication;
+MH, if yes, name of the drug",,,
+e1b77c32-c716-4788-aa1e-3596704c71bc,,PIH:6134,"MH, Patient is an inpatient at time of visit",Patient is an inpatient at time of visit? ,,,Misc,Boolean,,,,,
+241e9b47-f5a0-43d8-a710-c4b656d57a08,,PIH-BAH-MH:HighRisk,"MH, Are they high risk",Are they high risk?,,,Misc,Boolean,,,,,
+6f539447-5f8d-48dc-a898-3a48c93df2de,,PIH-BAH-MH:MentalHealthCrisisPlan,"MH, Do they have mental health crisis plan",Do they have mental health crisis plan?,,,Misc,Boolean,,,,,
+3cde9c16-26fe-102b-80cb-0017a47871b2,,PIH:1847,"MH, Food package",Food package,,,Misc,N/A,,,,,
+3cd67432-26fe-102b-80cb-0017a47871b2,,PIH:ASSISTANCE WITH TRANSPORT,"MH, Assistance with transport",Assistance with transport,,,Misc,N/A,,,,,
+3ce169b4-26fe-102b-80cb-0017a47871b2,,PIH:SOCIO-ECONOMIC ASSISTANCE ALREADY RECEIVED,"MH, Socio-economic assistance received",Socio-economic assistance received,,,Misc,Coded,"MH, Food package;
+MH, Assistance with transport; Other",,,,
+25a9a72c-8125-4668-aee0-157907e8ff34,,PIH-BAH-MH:AssistanceGiven,"MH, Assistance given",Assistance given,,,Misc,N/A,,"MH, Socio-economic assistance received",,,
+165137AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165137,"MH, Patient Health Questionnaire Nine Item score",Patient Health Questionnaire 9 (PHQ-9),,,Misc,Numeric,,,No,0,27
+d2f4d9d8-d8c2-4607-9a32-15ea27547f90,,PIH-BAH-MH:ClientMonitoringFormScore,"MH, Client Monitoring Form Score",Client Monitoring Form Score,,,Misc,Text,,,,,
+3ce94df0-26fe-102b-80cb-0017a47871b2,,CIEL:5096; PIH:RETURN VISIT DATE,"MH, Return visit date",Return visit date,,,Misc,Date,,,,,
+c20e2ba0-761e-4363-84ff-d0a4c69607be,,,"MH, Visit Template",Mental Health Visit,,,Misc,N/A,,"MH, Visit Date; MH, Psychological Interventions; MH, Medications; MH, Patient is an inpatient at time of visit; MH, Are they high risk;
+MH, Do they have mental health crisis plan; MH, Assistance given;
+MH, Patient Health Questionnaire Nine Item score; MH, Client Monitoring Form Score; MH, Return visit date",,,

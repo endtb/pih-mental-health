@@ -1,0 +1,46 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow Decimal?,Absolute Low,Absolute High
+4cecd8dc-dd39-474d-8c43-1af2de029b74,,PIH-BAH-MH:Client Background,"MH, Client background",Client background,,,Misc,Text,,,,,
+e1b77c32-c716-4788-aa1e-3596704c71bc,,PIH:6134,"MH, Patient is an inpatient at time of visit",Patient is an inpatient at time of visit? ,,,Misc,Boolean,,,,,
+1dabcdde-da28-43be-9abd-a6e59ff76a10,,PIH-BAH-MH:In Person,"MH, In-person",In-person,,,Misc,N/A,,,,,
+5c4cbe87-4d71-43cb-9f41-d4b3046a18f5,,PIH-BAH-MH:Phone,"MH, Phone",Phone,,,Misc,N/A,,,,,
+bb13f325-b151-4430-9f28-ddefe4a8b309,,PIH-BAH-MH:Session Type,"MH, Type of Session",Type of Session,,,Misc,Coded,"MH, In-person; MH, Phone",,,,
+3df4cb01-bd6b-49c4-bfa1-987a1db25cb3,,PIH-BAH-MH:CMF Problem Score,"MH, Client Monitoring Form Problem Score",Problem Score,,,Misc,Numeric,,,,,
+1c47327f-7b11-4ec5-91b6-48bade058d9a,,PIH-BAH-MH:CMF Substance Use Score,"MH, Client Monitoring Form Substance Use Score",Substance Use Score,,,Misc,Numeric,,,,,
+f36fa58b-82fc-464c-9744-ec4f7e37586d,,PIH-BAH-MH:CM Monitoring Score,"MH, Client Monitoring Score",Client Monitoring Score,,,Misc,Numeric,,,,,
+bfaafe2e-ec74-41da-8c5e-9818581dd2bc,,,"MH, Client Monitoring Form",Client Monitoring Form,,,Misc,N/A,,"MH, Client Monitoring Form Problem Score;
+MH, Client Monitoring Form Substance Use Score;
+MH, Client Monitoring Score",,,
+eaddb814-1a19-4f23-aab5-b05314ab6c1c,,PIH-BAH-MH:CMT Relaxation Score,"MH, Client Decision Making Table: Relaxation Score",Relaxation Score,,,Misc,Numeric,,,,,
+2387ca06-f804-45d7-a5d8-027718008178,,PIH-BAH-MH:CMT Getting Active Score,"MH, Client Decision Making Table: Getting Active Score",Getting Active Score,,,Misc,Numeric,,,,,
+d4bdff57-5c29-47d9-9f08-7d447dc87240,,PIH-BAH-MH:CMT Live Exposure Score,"MH, Client Decision Making Table: Live Exposure Score",Live Exposure Score,,,Misc,Numeric,,,,,
+cd937c74-df9e-409b-9191-700f5f1173d7,,PIH-BAH-MH:CMT Alcohol Use Score,"MH, Client Decision Making Table: Alcohol Use Score",Alcohol Use Score,,,Misc,Numeric,,,,,
+5bd7484b-a018-40e7-88a2-1ec9100832c6,,PIH-BAH-MH:CMT Substance Use Score,"MH, Client Decision Making Table: Substance Use Score",Substance Use Score,,,Misc,Numeric,,,,,
+bbfb6b95-158a-4d52-88c0-21ff92921e7b,,PIH-BAH-MH:CMT Difficult Memories Score,"MH, Client Decision Making Table: Talking About Difficult Memories Score",Talking About Difficult Memories Score,,,Misc,Numeric,,,,,
+09f5bbe6-d721-4007-99d5-ba1775a37d7d,,PIH-BAH-MH:CMT Solving Problems Score,"MH, Client Decision Making Table: Solving Problems Score",Solving Problems Score,,,Misc,Numeric,,,,,
+9e015625-f0f2-4cd4-80e7-8514c2291b2d,,,"MH, Client Decision Making Table",Client Decision Making Table,,,Misc,N/A,,"MH, Client Decision Making Table: Relaxation Score;
+MH, Client Decision Making Table: Getting Active Score;
+MH, Client Decision Making Table: Live Exposure Score;
+MH, Client Decision Making Table: Alcohol Use Score;
+MH, Client Decision Making Table: Substance Use Score;
+MH, Client Decision Making Table: Talking About Difficult Memories Score;
+MH, Client Decision Making Table: Solving Problems Score",,,
+49ac263d-fe86-46e5-acd0-72b6b0f4cba9,,PIH-BAH-MH:Clinical Scores,"MH, Clinical Scores",Clinical Scores,,,Misc,N/A,,"MH, Client Monitoring Form;
+MH, Client Decision Making Table",,,
+272de66a-c55f-47ca-8d4a-1f3b72795f37,,PIH-BAH-MH:High Risk,"MH, High Risk (safety concerns)",High Risk (safety concerns),,,Misc,Boolean,,,,,
+e826267e-7708-4ee6-8858-c79243575068,,PIH-BAH-MH:MH Crisis Plan,"MH, Do they have a mental health crisis plan (safety plan)",Do they have a mental health crisis plan (safety plan)?,,,Misc,Boolean,,,,,
+a1371455-7e37-4aaf-b514-1bfdc804554a,,PIH-BAH-MH:Anxiety Flow,"MH, Anxiety flow",Anxiety flow,,,Misc,N/A,,,,,
+0e3f7f75-67c9-4aad-8b29-98d8e773395d,,PIH-BAH-MH:Depression Treatment Flow,"MH, Depression Treatment Flow",Depression Treatment Flow,,,Misc,N/A,,,,,
+d6323823-b7d8-4261-9ebd-de5f440f215e,,PIH-BAH-MH:Trauma Treatment Flow,"MH, Trauma Treatment Flow",Trauma Treatment Flow,,,Misc,N/A,,,,,
+be20afa2-bb78-435e-865a-24f59c80d37e,,PIH-BAH-MH:SU Treatment Flow,"MH, SU Treatment Flow",SU Treatment Flow,,,Misc,N/A,,,,,
+e305c4e0-0d0e-4007-9558-b8d427b8403c,,PIH-BAH-MH:CETA Treatment Flow,"MH, CETA Treatment Flow",CETA Treatment Flow,,,Misc,Coded,"MH, Anxiety flow;
+MH, Depression Treatment Flow;
+MH, Trauma Treatment Flow;
+MH, SU Treatment Flow",,,,
+f32cc86b-21f6-49e2-94cf-54e34bf1381a,,PIH-BAH-MH:CETA Treatment Flow,"MH, CETA treatment",CETA Treatment,,,Misc,N/A,,"MH, High Risk (safety concerns);
+MH, Do they have a mental health crisis plan (safety plan); MH, CETA Treatment Flow",,,
+197517a5-657c-4baf-b967-149c732b350e,,PIH-BAH-MH:Counselor who completed the session,"MH, Counselor who completed the session",Counselor who completed the session,,,Misc,Text,,,,,
+49ac264d-fe76-46e5-acd1-72b6b0f4cba9,,,"MH, Common Elements Treatment Approach Baseline Visit Template",Mental Health Common Elements Treatment Approach Baseline Visit,,,Misc,N/A,,"MH, Visit Date; MH, Client background;
+MH, Patient is an inpatient at time of visit; MH, Type of Session; MH, Clinical Scores;
+MH, CETA treatment;
+MH, Assistance given;
+MH, Counselor who completed the session",,,
