@@ -1,0 +1,62 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members
+659747dd-b1e4-4e12-adee-ba59c18af4e9,,PIH-BAH-MH:VisitDate,"MH, Visit Date",Visit Date,Дата визита,,Misc,Date,,
+3cce9514-26fe-102b-80cb-0017a47871b2,,CIEL:119537; PIH:DEPRESSION,"MH, Depression",Depression,Депрессия,,Misc,N/A,,
+3ccea7fc-26fe-102b-80cb-0017a47871b2,,CIEL:113517; PIH:PSYCHOSIS,"MH, Psychosis",Psychosis,Психоз,,Misc,N/A,,
+121131AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:121131; PIH:Bipolar disorder,"MH, Bipolar",Bipolar,Биполярное расстройство,,Misc,N/A,,
+3cd134f4-26fe-102b-80cb-0017a47871b2,,CIEL:113155; PIH:SCHIZOPHRENIA,"MH, Schizophrenia",Schizophrenia,Шизофрения,,Misc,N/A,,
+112603AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:112603,"MH, Substance Abuse",Substance Abuse,Употребление веществ,,Misc,N/A,,
+3cce0a90-26fe-102b-80cb-0017a47871b2,,CIEL:155; PIH:EPILEPSY,"MH, Epilepsy",Epilepsy,Эпилепсия,,Misc,N/A,,
+a31bbcf1-0374-4160-8cfe-8271e096762d,,CIEL:113881; PIH:Post traumatic stress disorder,"MH, Post-traumatic stress disorder",Post-traumatic stress disorder,Посттравматическое стрессовое расстройство (ПТСР),,Misc,N/A,,
+3ce6b1ee-26fe-102b-80cb-0017a47871b2,,CIEL:121543; PIH:ANXIETY DISORDER,"MH, Anxiety",Anxiety,Тревожность,,Misc,N/A,,
+3cee7fb4-26fe-102b-80cb-0017a47871b2,,CIEL:5622; PIH:OTHER,"MH, Other",Other,,,Misc,N/A,,
+226ed7ad-b776-4b99-966d-fd818d3302c2,,CIEL:1284; PIH:DIAGNOSIS,"MH, Diagnosis",Mental Health Diagnosis,Ментальный диагноз,,Misc,Coded,"MH, Depression;
+MH, Psychosis;
+MH, Bipolar;
+MH, Schizophrenia;
+MH, Substance Abuse;
+MH, Epilepsy;
+MH, Post-traumatic stress disorder;
+MH, Anxiety;
+MH, Other",
+6f442a99-f473-4ecc-906c-cb1d6728a1eb,,PIH-BAH-MH:Psychiatric Center,"MH, Psychiatric Center",Psychiatric Center,Центр психиатрии,,Misc,N/A,,
+aefb8437-7f92-497a-afce-94579b66a9f8,,PIH-BAH-MH:Outpatient Clinic,"MH, Outpatient Clinic",Outpatient Clinic,Поликлиника ,,Misc,N/A,,
+dbca3e68-1924-4d62-b7af-3210ec218897,,PIH:12742,"MH, TB Hospital",TB Hospital,ТБ госпиталь,,Misc,N/A,,
+1272AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:1272; PIH:REFERRALS ORDERED,"MH, Type of referral",Type of referral,Тип перенаправления,,Misc,Coded,"MH, Psychiatric Center;
+MH, Outpatient Clinic;
+MH, TB Hospital; MH, Other",
+aec6ad18-f4dd-4cfa-b68d-3d7bb6ea908e,,PIH:HIV STATUS,"MH, HIV status",HIV status,HIV статус,,Misc,Coded,Positive; Negative; Unknown,
+3cdbd670-26fe-102b-80cb-0017a47871b2,,CIEL:5042; PIH:EXTRA-PULMONARY TUBERCULOSIS,"MH, EPTB",EPTB,Внелегочной ТБ,,Misc,N/A,,
+da36e0f6-81b3-4e82-9df9-43cff48a0e03,,CIEL:159345; PIH:MULTI-DRUG RESISTANT TUBERCULOSIS,"MH, MDRTB",MDRTB,МЛУ ТБ,,Misc,N/A,,
+2f3674d1-b7bc-41f0-9add-6f08de54f181,,PIH-BAH-MH:TBInformation,"MH, TB information",TB information,ТБ информация,,Misc,Coded,"MH, EPTB;
+MH, MDRTB",
+3cd74d58-26fe-102b-80cb-0017a47871b2,,PIH:TUBERCULOSIS DRUG TREATMENT START DATE,"MH, TB Treatment Start Date",If TB yes when the TB treatment has started,Дата начала ТБ лечения,,Question,Date,,
+139146AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:139146,"MH, Hallucinations",Hallucinations,Галлюцинации,,Misc,Boolean,,
+2250ecdd-908b-4594-a792-d8cc00b52b9d,,PIH-BAH-MH:HallucinationDuration,"MH, Hallucinations Duration",Hallucinations Duration,Продолжительность галлюцинаций,,Misc,Numeric,,
+ce852469-6c11-41c4-bc2e-10d7cb65af3a,,CIEL:119570; PIH:Delusional disorder,"MH, Delusions",Delusions,Бред ,,Misc,Boolean,,
+fb171b74-b4b8-43f5-83cc-4c653428f174,,PIH-BAH-MH:DelusionDuration,"MH, Delusions Duration",Delusions Duration,Продолжительность бреда,,Misc,Numeric,,
+137668AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:137668,"MH, Disorganised/Inappropriate behaviour",Disorganised/Inappropriate behaviour,Дезорганизованное/Неадекватное поведение,,Misc,Boolean,,
+b664b944-2caf-42a2-83e4-99ae00323b57,,PIH-BAH-MH:InappropBehaviorDuration,"MH, Disorganised/Inappropriate behaviour Duration",Disorganised/Inappropriate behaviour Duration,Дезорганизованное/Неадекватное поведение длительность,,Misc,Numeric,,
+137646AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:137646,"MH, Disorganised/Incoherent speech",Disorganised/Incoherent speech,Дезорганизованное/Несвязная речь,,Misc,Boolean,,
+478ff081-9fc3-4508-ad50-8af7e46ed480,,PIH-BAH-MH:IncoherentSpeechDuration,"MH, Disorganised/Incoherent speech Duration",Disorganised/Incoherent speech Duration,Дезорганизованное/Несвязная речь длительность,,Misc,Numeric,,
+158801AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:158801,"MH, Depressive symptoms",Depressive symptoms,Симптомы депрессии,,Misc,Boolean,,
+0b7b0ee7-2e8f-4764-86d8-214a925b4312,,PIH-BAH-MH:DepressionSympDuration,"MH, Depressive symptoms Duration",Depressive symptoms Duration,Длительность симптомов депрессии,,Misc,Numeric,,
+3cce938e-26fe-102b-80cb-0017a47871b2,,CIEL:113054; PIH:SEIZURE,"MH, Seizures",Seizures,Судороги,,Misc,Boolean,,
+47216015-6d80-4226-b50a-aa06423e2330,,PIH:Duration of seizure,"MH, Seizures Duration",Seizures Duration,"Судороги, длительность",,Misc,Numeric,,
+2a51dc0f-1ef2-4172-875b-4ee1bf6c4d89,,PIH-BAH-MH:PresentingFeatures,"MH, Presenting Features",Presenting Features,Жалобы пациента,,Misc,N/A,,"MH, Hallucinations;
+MH, Hallucinations Duration;
+MH, Delusions;
+MH, Delusions Duration;
+MH, Disorganised/Inappropriate behaviour;
+MH, Disorganised/Inappropriate behaviour Duration;
+MH, Disorganised/Incoherent speech;
+MH, Disorganised/Incoherent speech Duration;
+MH, Depressive symptoms;
+MH, Depressive symptoms Duration;
+MH, Seizures;
+MH, Seizures Duration"
+70468AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:70468,"MH, Alcohol",Alcohol,Алкоголь,,Misc,Coded,In the past; Currently,
+39b61a26-975c-48c0-b8d5-ddb1165461c8,,PIH-BAH-MH:Drugs,"MH, Drugs",Drugs,Алкоголь,,Misc,Coded,In the past; Currently,
+0ceb46a1-83e7-4f29-8440-e5c1859cb36f,,PIH-BAH-MH:Exposures,"MH, Exposures",Exposures,Риски,,Misc,N/A,,"MH, Alcohol;
+MH, Drugs"
+1cd28060-f53a-44fd-ba3b-daaa3ddd9af1,,,"MH, Patient History and Exposures",Patient History and Exposures,История пациента и Exposures,,Misc,N/A,,"MH, HIV status; Antiretroviral treatment start date; MH, TB information; MH, TB Treatment Start Date; MH, Presenting Features; MH, Exposures"
+5ef91dd4-eb1a-4f82-9daa-d81bfafde805,,,"MH, Baseline Template",Mental Health Baseline,Исходная форма,,Misc,N/A,,"MH, Visit Date; MH, Type of referral; MH, Diagnosis; MH, Patient History and Exposures"

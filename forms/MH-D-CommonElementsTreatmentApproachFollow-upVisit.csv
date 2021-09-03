@@ -1,0 +1,40 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow Decimal?,Absolute Low,Absolute High
+6bc42e14-8124-42b6-9207-8f276024ab1c,,PIH-BAH-MH:Completed Element,"MH, Completed Element",Completed Element,,,Misc,N/A,,,,,
+44d8b73d-fbb4-4711-87dc-d1c631c089d7,,PIH-BAH-MH:Did not complete element,"MH, Did not complete element",Did not complete element,,,Misc,N/A,,,,,
+d57893d8-ed1c-4bce-a48b-5ada57103820,,PIH-BAH-MH:Missed session,"MH, Missed session",Missed session,,,Misc,N/A,,,,,
+dbfcbc55-dfda-437e-afeb-e3dc1ce32edf,,PIH-BAH-MH:Outcome of Session,"MH, Outcome of Session",Outcome of Session,,,Misc,Coded,"MH, Completed Element;
+MH, Did not complete element;
+MH, Missed session",,,,
+f640ad7c-6ac7-407c-8af1-f84080a840ba,,PIH-BAH-MH:Reason the session was missed,"MH, Reason the session was missed",Reason the session was missed,,,Misc,Text,,,,,
+f650ad7c-6bc7-407c-8af1-f84880a840ba,,,"MH, Session Introduction",Session Introduction,,,Misc,N/A,,"MH, Type of Session; MH, Patient is an inpatient at time of visit; MH, Outcome of Session; MH, Reason the session was missed",,,
+3ae10c92-97ae-4ce4-bff7-103678d69f1f,,PIH-BAH-MH:Patient High Risk,"MH, Is this patient high risk?",Is this patient high risk?,,,Misc,Boolean,,,,,
+c03310e2-8719-4d63-af3d-f43a14fdc4b2,,PIH-BAH-MH:Crisis Plan,"MH, Does He or She have a mental health crisis plan",Does He or She have a mental health crisis plan?,,,Misc,Boolean,,,,,
+c38e80eb-f959-4507-9cae-edb5e349a14a,,PIH-BAH-MH:Intro/EP,"MH, Intro/EP",Intro/EP,,,Misc,N/A,,,,,
+5a2e133a-0c5d-482e-869f-eca05d66fe77,,PIH-BAH-MH:Relaxation,"MH, Relaxation",Relaxation,,,Misc,N/A,,,,,
+1f48358b-64f2-4a2d-b0da-ef300e71f0fc,,PIH-BAH-MH:Getting Active,"MH, Getting Active",Getting Active,,,Misc,N/A,,,,,
+19f8207d-b01e-4b31-bb15-78054ffcdc07,,PIH-BAH-MH:TDW1,"MH, TDW1",TDW1,,,Misc,N/A,,,,,
+6501fa81-6c00-422c-8b07-ea0681730577,,PIH-BAH-MH:TDM,"MH, TDM",TDM,,,Misc,N/A,,,,,
+55da40ab-9394-4931-a34b-eec53cf6e074,,PIH-BAH-MH:TDW2,"MH, TDW2",TDW2,,,Misc,N/A,,,,,
+356a48b1-929e-4e27-9af5-69978b434844,,PIH-BAH-MH:Live Exposure,"MH, Live Exposure",Live Exposure,,,Misc,N/A,,,,,
+d975b02b-a7ee-411b-b424-d6d7a3af07ce,,PIH-BAH-MH:Safety,"MH, Safety",Safety,,,Misc,N/A,,,,,
+fdf2262b-306c-47a5-bcd9-37b0838948c9,,PIH-BAH-MH:Substance/Alcohol use,"MH, Substance/Alcohol use",Substance/Alcohol use,,,Misc,N/A,,,,,
+a8b60a2b-2bfa-4275-ba92-959e878dd063,,PIH-BAH-MH:Problem Solving,"MH, Problem Solving",Problem Solving,,,Misc,N/A,,,,,
+863ec26a-da3d-4800-89fb-72522f23517c,,PIH-BAH-MH:Finishing,"MH, Finishing",Finishing,,,Misc,N/A,,,,,
+863da26a-da4d-4800-89fa-72522f23517c,,PIH-BAH-MH:Component Time,"MH, Component Time",Component time (min),,,Misc,Numeric,,,No,0,60
+d5fb318c-e613-4f6b-8a09-356e5507bb57,,PIH-BAH-MH:Component Done,"MH, Component Done",Component Done,,,Misc,Coded,"MH, Intro/EP;
+MH, Relaxation;
+MH, Getting Active;
+MH, TDW1;
+MH, TDM;
+MH, TDW2;
+MH, Live Exposure;
+MH, Safety;
+MH, Substance/Alcohol use;
+MH, Problem Solving;
+MH, Finishing; MH, Component Time",,,,
+d5fb318c-e623-4f6b-1a09-356e5507ab56,,,"MH, Clinical Information",Clinical Information,,,Misc,N/A,,"MH, Client Monitoring Form Problem Score; MH, Client Monitoring Form Substance Use Score; MH, Client Monitoring Score;
+MH, Is this patient high risk?; MH, Does He or She have a mental health crisis plan",,,
+d5fb318c-d623-4e6b-1b09-356e4407ab56,,,"MH, Session Summary",Session Summary,,,Misc,N/A,,"MH, CETA Treatment Flow; MH, Component Done; ",,,
+e5fb318c-d633-4a6b-2b09-356e4407ab56,,PIH-BAH-MH:Comments,"MH, Comments",Comments,,,Misc,Text,,,,,
+d1cc8646-913e-4299-9e4f-c8c2b339a5a0,,,"MH, Common Elements Treatment Approach Follow-up Visit Template",Common Elements Treatment Approach Follow-up Visit,,,Misc,N/A,,"MH, Visit Date; MH, Session Introduction; MH, Clinical Information; MH, Session Summary; MH, Assistance given; MH, Counselor who completed the session; MH, Comments; MH, Return visit date
+",,,

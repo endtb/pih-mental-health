@@ -1,0 +1,11 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members
+3cdeecea-26fe-102b-10cb-0017b47871d2,,PIH-BAH-MH:Outcome Date,"MH, Date of outcome",Date of outcome,Дата исхода,,Misc,Date,,
+3ceb0ed8-26fe-102b-80cb-0017a47871b2,,PIH:LOST TO FOLLOWUP,"MH, Lost to followup",Lost to followup,Потерян для наблюдения,,Misc,N/A,,
+3cdd446a-26fe-102b-80cb-0017a47871b2,,CIEL:160034; PIH:PATIENT DIED,"MH, Patient died",Patient died,Пациент умер,,Misc,N/A,,
+3cdd5c02-26fe-102b-80cb-0017a47871b2,,CIEL:160036; PIH:PATIENT TRANSFERRED OUT,"MH, Patient transferred out",Patient transferred out,Пациент переведен,,Misc,N/A,,
+3cddecea-26fe-102b-80cb-0017a47871c2,,CIEL:160035; PIH:TREATMENT COMPLETE,"MH, Patient Completed Mental Health Treatment (would signify patient has improved symptoms) ",Patient Completed Mental Health Treatment (would signify patient has improved symptoms),Пациент закончил курс ментальной терапии (что оначает состояние пациента улучшилось),,Misc,N/A,,
+fb5f05f8-85f1-4c4b-b400-86f5914ba584,,PIH:Mental Health outcome,"MH, Outcome",Mental Health Outcome,Ментальный исход,,Misc,Coded,"MH, Lost to followup;
+MH, Patient died;
+MH, Patient transferred out;
+MH, Patient Completed Mental Health Treatment (would signify patient has improved symptoms) ",
+fb5f01f8-85f1-3c4b-bc00-86f5915ba584,,,"MH, Outcome of Patient Template",Mental Health Outcome of Patient,Исход ментального лечения,,Misc,N/A,,"MH, Date of outcome; MH, Outcome"
