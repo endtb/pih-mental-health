@@ -1,4 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow Decimal?,Absolute Low,Absolute High
+659747dd-b1e4-3e12-adee-ba59c18af4d8,,PIH-BAH-MH:FollowupVisitDate,"MH, Followup Visit Date",Visit Date,Дата визита,,Misc,Date,,,,,
 3ced9c02-26fe-102b-80cb-0017a47871b2,,PIH:PSYCHOSOCIAL COUNSELING,"MH, Psychosocial counseling",Psychosocial counseling,Психологическое консультирование,,MIsc,N/A,,,,,
 45538d51-cddb-47b1-87c9-2eee13025eed,,PIH:Psychoeducation,"MH, Psychoeducation",Psychoeducation,Психологическое обучение,,Misc,N/A,,,,,
 165973AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165973,"MH, Psychological first aid (PFA)",Psychological first aid (PFA),Психологическая первая помощь (PFA),,Misc,N/A,,,,,
@@ -27,6 +28,6 @@ MH, Assistance with transport; Other",,,,
 165137AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165137,"MH, Patient Health Questionnaire Nine Item score",Patient Health Questionnaire 9 (PHQ-9),Анкета PHQ-9,,Misc,Numeric,,,No,0,27
 d2f4d9d8-d8c2-4607-9a32-15ea27547f90,,PIH-BAH-MH:ClientMonitoringFormScore,"MH, Client Monitoring Form Score",Client Monitoring Form Score,Форма мониторинга клиента,,Misc,Text,,,,,
 3ce94df0-26fe-102b-80cb-0017a47871b2,,CIEL:5096; PIH:RETURN VISIT DATE,"MH, Return visit date",Return visit date,Дата повторного визита,,Misc,Date,,,,,
-c20e2ba0-761e-4363-84ff-d0a4c69607be,,,"MH, Visit Template",Mental Health Visit,Ментальный визит,,Misc,N/A,,"MH, Visit Date; MH, Psychological Interventions; MH, Medications; MH, Patient is an inpatient at time of visit; MH, Are they high risk;
+c20e2ba0-761e-4363-84ff-d0a4c69607be,,,"MH, Visit Template",Mental Health Visit,Ментальный визит,,Misc,N/A,,"MH, Followup Visit Date; MH, Psychological Interventions; MH, Medications; MH, Patient is an inpatient at time of visit; MH, Are they high risk;
 MH, Do they have mental health crisis plan; MH, Assistance given;
 MH, Patient Health Questionnaire Nine Item score; MH, Client Monitoring Form Score; MH, Return visit date",,,

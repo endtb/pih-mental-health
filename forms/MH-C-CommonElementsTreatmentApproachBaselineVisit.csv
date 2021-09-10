@@ -1,4 +1,5 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members,Allow Decimal?,Absolute Low,Absolute High
+558747dd-a1e4-3e11-adee-ba59c18af4d8,,PIH-BAH-MH:CommonsElementVisitDate,"MH, Commons Element Visit Date",Visit Date,Дата визита,,Misc,Date,,,,,
 4cecd8dc-dd39-474d-8c43-1af2de029b74,,PIH-BAH-MH:Client Background,"MH, Client background",Client background,Анамнез пациента,,Misc,Text,,,,,
 e1b77c32-c716-4788-aa1e-3596704c71bc,,PIH:6134,"MH, Patient is an inpatient at time of visit",Patient is an inpatient at time of visit? ,Пациент находится в стационаре во время визита,,Misc,Boolean,,,,,
 1dabcdde-da28-43be-9abd-a6e59ff76a10,,PIH-BAH-MH:In Person,"MH, In-person",In-person,Встреча с клиентом,,Misc,N/A,,,,,
@@ -39,7 +40,7 @@ MH, SU Treatment Flow",,,,
 f32cc86b-21f6-49e2-94cf-54e34bf1381a,,PIH-BAH-MH:CETA Treatment Flow,"MH, CETA treatment",CETA Treatment,CETA Уход,,Misc,N/A,,"MH, High Risk (safety concerns);
 MH, Do they have a mental health crisis plan (safety plan); MH, CETA Treatment Flow",,,
 197517a5-657c-4baf-b967-149c732b350e,,PIH-BAH-MH:Counselor who completed the session,"MH, Counselor who completed the session",Counselor who completed the session,"Консультант, завершивший сеанс",,Misc,Text,,,,,
-49ac264d-fe76-46e5-acd1-72b6b0f4cba9,,,"MH, Common Elements Treatment Approach Baseline Visit Template",Mental Health Common Elements Treatment Approach Baseline Visit,Исходная форма CETA ,,Misc,N/A,,"MH, Visit Date; MH, Client background;
+49ac264d-fe76-46e5-acd1-72b6b0f4cba9,,,"MH, Common Elements Treatment Approach Baseline Visit Template",Mental Health Common Elements Treatment Approach Baseline Visit,Исходная форма CETA ,,Misc,N/A,,"MH, Commons Element Visit Date; MH, Client background;
 MH, Patient is an inpatient at time of visit; MH, Type of Session; MH, Clinical Scores;
 MH, CETA treatment;
 MH, Assistance given;
