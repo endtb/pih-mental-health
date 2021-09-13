@@ -5,7 +5,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 165973AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165973,"MH, Psychological first aid (PFA)",Psychological first aid (PFA),Психологическая первая помощь (PFA),,Misc,N/A,,,,,
 165328AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:165328,"MH, HIV positive counseling",HIV positive counseling,Консультирование ВИЧ позитивного,,Misc,N/A,,,,,
 9d8fdea7-df74-4f65-94a5-961bc6057a04,,PIH:10646,"MH, Safety Planning",Safety Planning,Планирование безопасности,,Misc,N/A,,,,,
-023720b2-e361-4736-afe0-a48716db3dda,,PIH-BAH-MH:AdherenceCounselling,"MH, Adherence?counselling",Adherence?counselling,Консультирование приверженности к лечению,,Misc,N/A,,,,,
+023720b2-e361-4736-afe0-a48716db3dda,,PIH-BAH-MH:AdherenceCounselling,"MH, Adherence?counselling",Adherence counselling,Консультирование приверженности к лечению,,Misc,N/A,,,,,
 e72f7f41-04f8-4c3a-bc26-287482c63568,,CIEL:163311; PIH:Mental health intervention,"MH, Intervention",Mental health intervention,Ментальное вмешательство,,Misc,coded,"MH, Psychosocial counseling;
 MH, Psychoeducation;
 MH, Psychological first aid (PFA);

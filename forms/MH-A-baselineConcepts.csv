@@ -1,6 +1,6 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short name:ru,Short name:pr,Data class,Data type,Answers,Members
 659747dd-b1e4-3e12-adee-ba59c18af4e9,,PIH-BAH-MH:VisitDate,"MH, Baseline Visit Date",Visit Date,Дата визита,,Misc,Date,,
-3cce9514-26fe-102b-80cb-0017a47871b2,,CIEL:119537; PIH:DEPRESSION,"MH, Depression",Depression,Депрессия,,Misc,N/A,,
+3cce9514-26fe-102b-80cb-0017a47871b2,,CIEL:119537; PIH:DEPRESSION,"MH, Depression",Depression,Депрессия ,,Misc,N/A,,
 3ccea7fc-26fe-102b-80cb-0017a47871b2,,CIEL:113517; PIH:PSYCHOSIS,"MH, Psychosis",Psychosis,Психоз,,Misc,N/A,,
 121131AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,CIEL:121131; PIH:Bipolar disorder,"MH, Bipolar",Bipolar,Биполярное расстройство,,Misc,N/A,,
 3cd134f4-26fe-102b-80cb-0017a47871b2,,CIEL:113155; PIH:SCHIZOPHRENIA,"MH, Schizophrenia",Schizophrenia,Шизофрения,,Misc,N/A,,
@@ -8,7 +8,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Short na
 3cce0a90-26fe-102b-80cb-0017a47871b2,,CIEL:155; PIH:EPILEPSY,"MH, Epilepsy",Epilepsy,Эпилепсия,,Misc,N/A,,
 a31bbcf1-0374-4160-8cfe-8271e096762d,,CIEL:113881; PIH:Post traumatic stress disorder,"MH, Post-traumatic stress disorder",Post-traumatic stress disorder,Посттравматическое стрессовое расстройство (ПТСР),,Misc,N/A,,
 3ce6b1ee-26fe-102b-80cb-0017a47871b2,,CIEL:121543; PIH:ANXIETY DISORDER,"MH, Anxiety",Anxiety,Тревожность,,Misc,N/A,,
-3cee7fb4-26fe-102b-80cb-0017a47871b2,,CIEL:5622; PIH:OTHER,"MH, Other",Other,Другие,,Misc,N/A,,
+3cee7fb4-26fe-102b-80cb-0017a47871b2,,CIEL:5622; PIH:OTHER,"MH, Other",Other,Другое,,Misc,N/A,,
 226ed7ad-b776-4b99-966d-fd818d3302c2,,CIEL:1284; PIH:DIAGNOSIS,"MH, Diagnosis",Mental Health Diagnosis,Ментальный диагноз,,Misc,Coded,"MH, Depression;
 MH, Psychosis;
 MH, Bipolar;
