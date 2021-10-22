@@ -10,11 +10,11 @@ a651a26c-6602-4455-8803-d68d47277f49,,PIH-BAH-MH:Client refused to visit,"MH, Cl
 39caab91-7713-4b75-8e6f-20e88a7b60d4,,PIH-BAH-MH:Client was ill,"MH, Client was ill",Client was ill,Клиент не пришел по состоянию здоровья,,Misc,N/A,,,,,
 1ca30e83-6b6c-43e0-81b3-a78eb78b7eae,,PIH-BAH-MH:Client was engaged,"MH, Client was engaged",Client was engaged,Занятость; из-за употребления веществ,,Misc,N/A,,,,,
 551c572a-83e6-49e7-b79b-2b18be1dfb91,,PIH-BAH-MH:Due to SU,"MH, Due to SU",Due to SU,,,Misc,N/A,,,,,
-f640ad7c-6ac7-407c-8af1-f84080a840ba,,PIH-BAH-MH:Reason the session was missed,"MH, Reason the session was missed",Reason the session was missed,Причина по которой сессия была пропущена,,Misc,Coded,"MH, Client refused to visit;
+f640ad7c-6ac7-407c-8af1-f84080a841ba,,PIH-BAH-MH:Reason the session was missed,"MH, Reasons the session was missed",Reason the session was missed,Причина по которой сессия была пропущена,,Misc,Coded,"MH, Client refused to visit;
 MH, Client was ill;
 MH, Client was engaged;
 MH, Due to SU",,,,
-f650ad7c-6bc7-407c-8af1-f84880a840ba,,,"MH, Session Introduction",Session Introduction,Введение в сессию,,Misc,N/A,,"MH, Type of Session; MH, Patient is an inpatient at time of visit; MH, Outcome of Session; MH, Reason the session was missed",,,
+f650ad7c-6bc7-407c-8af1-f84880a840ba,,,"MH, Session Introduction",Session Introduction,Введение в сессию,,Misc,N/A,,"MH, Type of Session; MH, Patient is an inpatient at time of visit; MH, Outcome of Session; MH, Reasons the session was missed",,,
 3ae10c92-97ae-4ce4-bff7-103678d69f1f,,PIH-BAH-MH:Patient High Risk,"MH, Is this patient high risk?",Is this patient high risk?,Пациент из группы высокого риска?,,Misc,Boolean,,,,,
 c03310e2-8719-4d63-af3d-f43a14fdc4b2,,PIH-BAH-MH:Crisis Plan,"MH, Does He or She have a mental health crisis plan",Does He or She have a mental health crisis plan?,Есть ли у пациента кризисный план?,,Misc,Boolean,,,,,
 c38e80eb-f959-4507-9cae-edb5e349a14a,,PIH-BAH-MH:Intro/EP,"MH, Intro/EP",Intro/EP,Вступление / EP,,Misc,N/A,,,,,
