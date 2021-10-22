@@ -12,18 +12,20 @@ bfaafe2e-ec74-41da-8c5e-9818581dd2bc,,,"MH, Client Monitoring Form",Client Monit
 MH, Client Monitoring Form Substance Use Score;
 MH, Client Monitoring Score",,,
 eaddb814-1a19-4f23-aab5-b05314ab6c1c,,PIH-BAH-MH:CMT Relaxation Score,"MH, Client Decision Making Table: Relaxation Score",Relaxation Score,Форма принятия решения: Релаксация Показатель,,Misc,Numeric,,,,,
+2387ca06-f844-45d7-a5de-027718008178,,PIH-BAH-MH:General Depression Score,"MH, Client Decision Making Table: General Depression Score",General Depression Score,Форма принятия решения: Общая депрессия Показатель,,Misc,Numeric,,,,,
 2387ca06-f804-45d7-a5d8-027718008178,,PIH-BAH-MH:CMT Getting Active Score,"MH, Client Decision Making Table: Getting Active Score",Getting Active Score,Форма принятия решения: Восстановление Активности Показатель,,Misc,Numeric,,,,,
 d4bdff57-5c29-47d9-9f08-7d447dc87240,,PIH-BAH-MH:CMT Live Exposure Score,"MH, Client Decision Making Table: Live Exposure Score",Live Exposure Score,Форма принятия решения: Жизненная Экспозиция Показатель,,Misc,Numeric,,,,,
 cd937c74-df9e-409b-9191-700f5f1173d7,,PIH-BAH-MH:CMT Alcohol Use Score,"MH, Client Decision Making Table: Alcohol Use Score",Alcohol Use Score,Форма принятия решения: Употребление Алкоголя Показатель,,Misc,Numeric,,,,,
 5bd7484b-a018-40e7-88a2-1ec9100832c6,,PIH-BAH-MH:CMT Substance Use Score,"MH, Client Decision Making Table: Substance Use Score",Substance Use Score,Форма принятия решения: Употребление Веществ Показатель,,Misc,Numeric,,,,,
 bbfb6b95-158a-4d52-88c0-21ff92921e7b,,PIH-BAH-MH:CMT Difficult Memories Score,"MH, Client Decision Making Table: Talking About Difficult Memories Score",Talking About Difficult Memories Score,Форма принятия решения: Обсуждение Сложных Воспоминаний Показатель,,Misc,Numeric,,,,,
+2387ca06-f804-45d7-a5d8-127718118178,,PIH-BAH-MH:Thinking Different Way Score,"MH, Client Decision Making Table: Thinking Different Way Score",Thinking Different Way Score,Форма принятия решения: Думать по другому Показатель,,Misc,Numeric,,,,,
 09f5bbe6-d721-4007-99d5-ba1775a37d7d,,PIH-BAH-MH:CMT Solving Problems Score,"MH, Client Decision Making Table: Solving Problems Score",Solving Problems Score,Форма принятия решения: Решение Проблем Показатель,,Misc,Numeric,,,,,
-9e015625-f0f2-4cd4-80e7-8514c2291b2d,,,"MH, Client Decision Making Table",Client Decision Making Table,Форма принятия решения,,Misc,N/A,,"MH, Client Decision Making Table: Relaxation Score;
+9e015625-f0f2-4cd4-80e7-8514c2291b2d,,,"MH, Client Decision Making Table",Client Decision Making Table,Форма принятия решения,,Misc,N/A,,"MH, Client Decision Making Table: Relaxation Score; MH, Client Decision Making Table: General Depression Score;
 MH, Client Decision Making Table: Getting Active Score;
 MH, Client Decision Making Table: Live Exposure Score;
 MH, Client Decision Making Table: Alcohol Use Score;
 MH, Client Decision Making Table: Substance Use Score;
-MH, Client Decision Making Table: Talking About Difficult Memories Score;
+MH, Client Decision Making Table: Talking About Difficult Memories Score; MH, Client Decision Making Table: Thinking Different Way Score;
 MH, Client Decision Making Table: Solving Problems Score",,,
 49ac263d-fe86-46e5-acd0-72b6b0f4cba9,,PIH-BAH-MH:Clinical Scores,"MH, Clinical Scores",Clinical Scores,Клинические оценки,,Misc,N/A,,"MH, Client Monitoring Form;
 MH, Client Decision Making Table",,,

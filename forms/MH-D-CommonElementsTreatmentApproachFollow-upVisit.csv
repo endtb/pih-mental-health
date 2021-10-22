@@ -6,7 +6,14 @@ d57893d8-ed1c-4bce-a48b-5ada57103820,,PIH-BAH-MH:Missed session,"MH, Missed sess
 dbfcbc55-dfda-437e-afeb-e3dc1ce32edf,,PIH-BAH-MH:Outcome of Session,"MH, Outcome of Session",Outcome of Session,Исход сессии,,Misc,Coded,"MH, Completed Element;
 MH, Did not complete element;
 MH, Missed session",,,,
-f640ad7c-6ac7-407c-8af1-f84080a840ba,,PIH-BAH-MH:Reason the session was missed,"MH, Reason the session was missed",Reason the session was missed,Причина по которой сессия была пропущена,,Misc,Text,,,,,
+a651a26c-6602-4455-8803-d68d47277f49,,PIH-BAH-MH:Client refused to visit,"MH, Client refused to visit",Client refused to visit,Клиент отказался,,Misc,N/A,,,,,
+39caab91-7713-4b75-8e6f-20e88a7b60d4,,PIH-BAH-MH:Client was ill,"MH, Client was ill",Client was ill,Клиент не пришел по состоянию здоровья,,Misc,N/A,,,,,
+1ca30e83-6b6c-43e0-81b3-a78eb78b7eae,,PIH-BAH-MH:Client was engaged,"MH, Client was engaged",Client was engaged,Занятость; из-за употребления веществ,,Misc,N/A,,,,,
+551c572a-83e6-49e7-b79b-2b18be1dfb91,,PIH-BAH-MH:Due to SU,"MH, Due to SU",Due to SU,,,Misc,N/A,,,,,
+f640ad7c-6ac7-407c-8af1-f84080a840ba,,PIH-BAH-MH:Reason the session was missed,"MH, Reason the session was missed",Reason the session was missed,Причина по которой сессия была пропущена,,Misc,Coded,"MH, Client refused to visit;
+MH, Client was ill;
+MH, Client was engaged;
+MH, Due to SU",,,,
 f650ad7c-6bc7-407c-8af1-f84880a840ba,,,"MH, Session Introduction",Session Introduction,Введение в сессию,,Misc,N/A,,"MH, Type of Session; MH, Patient is an inpatient at time of visit; MH, Outcome of Session; MH, Reason the session was missed",,,
 3ae10c92-97ae-4ce4-bff7-103678d69f1f,,PIH-BAH-MH:Patient High Risk,"MH, Is this patient high risk?",Is this patient high risk?,Пациент из группы высокого риска?,,Misc,Boolean,,,,,
 c03310e2-8719-4d63-af3d-f43a14fdc4b2,,PIH-BAH-MH:Crisis Plan,"MH, Does He or She have a mental health crisis plan",Does He or She have a mental health crisis plan?,Есть ли у пациента кризисный план?,,Misc,Boolean,,,,,
@@ -37,5 +44,5 @@ d5fb318c-e623-4f6b-1a09-356e5507ab56,,,"MH, Clinical Information",Clinical Infor
 MH, Is this patient high risk?; MH, Does He or She have a mental health crisis plan",,,
 d5fb318c-d623-4e6b-1b09-356e4407ab56,,,"MH, Session Summary",Session Summary,Сводка сеанса,,Misc,N/A,,"MH, CETA Treatment Flow; MH, Component Done; ",,,
 e5fb318c-d633-4a6b-2b09-356e4407ab56,,PIH-BAH-MH:Comments,"MH, Comments",Comments,Комментарии,,Misc,Text,,,,,
-d1cc8646-913e-4299-9e4f-c8c2b339a5a0,,,"MH, Common Elements Treatment Approach Follow-up Visit Template",Common Elements Treatment Approach Follow-up Visit,Последующий визит CETA,,Misc,N/A,,"MH, Commons Element Treatment Visit Date; MH, Session Introduction; MH, Clinical Information; MH, Session Summary; MH, Assistance given; MH, Counselor who completed the session; MH, Comments; MH, Return visit date
+d1cc8646-913e-4299-9e4f-c8c2b339a5a0,,,"MH, Common Elements Treatment Approach Follow-up Visit Template",Common Elements Treatment Approach Follow-up Visit,Последующий визит CETA,,Misc,N/A,,"MH, Commons Element Treatment Visit Date; MH, Session Introduction; MH, Clinical Information; MH, Client Decision Making Table; MH, Session Summary; MH, Assistance given; MH, Counselor who completed the session; MH, Comments; MH, Return visit date
 ",,,
