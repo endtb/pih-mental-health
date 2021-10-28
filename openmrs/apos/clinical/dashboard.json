@@ -1579,6 +1579,59 @@
           ]
         }
       },
+
+      "mentalHealthClientbaselineDecisionVisit": {
+        "translationKey": "MENTAL_HEALTH_VISIT_CLIENT_BASELINE_DECISION_TABLE",
+        "type": "obsToObsFlowSheet",
+        "headingConceptSource": "Abbreviation",
+        "dataConceptSource": "Abbreviation",
+        "displayType": "Full-Page",
+        "displayOrder": 6,
+        "dashboardConfig": {
+          "groupByConcept": "MH, Commons Element Visit Date",
+          "templateName": "MH, Common Elements Treatment Approach Baseline Visit Template",
+          "obsDelimiter": "\n",
+          "persistOrderOfConcepts": true,
+          "conceptNames": [
+            "MH, Client Decision Making Table: Relaxation Score",
+            "MH, Client Decision Making Table: General Depression Score",
+            "MH, Client Decision Making Table: Getting Active Score",
+            "MH, Client Decision Making Table: Live Exposure Score",
+            "MH, Client Decision Making Table: Alcohol Use Score",
+            "MH, Client Decision Making Table: Substance Use Score",
+            "MH, Client Decision Making Table: Talking About Difficult Memories Score",
+            "MH, Client Decision Making Table: Thinking Different Way Score",
+            "MH, Client Decision Making Table: Solving Problems Score"
+          ]
+        }
+      },
+
+      "mentalHealthClientFollowupDecisionVisit": {
+        "translationKey": "MENTAL_HEALTH_VISIT_CLIENT_FOLLOWUP_DECISION_TABLE",
+        "type": "obsToObsFlowSheet",
+        "headingConceptSource": "Abbreviation",
+        "dataConceptSource": "Abbreviation",
+        "displayType": "Full-Page",
+        "displayOrder": 7,
+        "dashboardConfig": {
+          "groupByConcept": "MH, Commons Element Treatment Visit Date",
+          "templateName": "MH, Common Elements Treatment Approach Follow-up Visit Template",
+          "obsDelimiter": "\n",
+          "persistOrderOfConcepts": true,
+          "conceptNames": [
+            "MH, Client Decision Making Table: Relaxation Score",
+            "MH, Client Decision Making Table: General Depression Score",
+            "MH, Client Decision Making Table: Getting Active Score",
+            "MH, Client Decision Making Table: Live Exposure Score",
+            "MH, Client Decision Making Table: Alcohol Use Score",
+            "MH, Client Decision Making Table: Substance Use Score",
+            "MH, Client Decision Making Table: Talking About Difficult Memories Score",
+            "MH, Client Decision Making Table: Thinking Different Way Score",
+            "MH, Client Decision Making Table: Solving Problems Score"
+          ]
+        }
+      },
+
       "mentalHealthClinicalScores": {
         "translationKey": "MENTAL_HEALTH_CLINICAL_SCORES",
         "type": "obsToObsFlowSheet",
