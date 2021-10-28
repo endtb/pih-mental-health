@@ -178,7 +178,7 @@
         ],
         "translationKey": "DASHBOARD_TITLE_OUTCOME_FORMS"
       },
-      "HeptitiesCforms": {
+      "mentalHealthforms": {
         "type": "forms",
         "displayOrder": 12,
         "dashboardConfig": {
@@ -186,11 +186,13 @@
           "maximumNoOfVisits": 12
         },
         "formGroup": [
-          "Hep C Treatment Outcome Template",
-          "Hep C Treatment Initiation Template",
-          "Depression Alcohol Score Template"
+          "MH, Baseline Template",
+          "MH, Visit Template",
+          "MH, Common Elements Treatment Approach Baseline Visit Template",
+          "MH, Common Elements Treatment Approach Follow-up Visit Template",
+          "MH, Outcome of Patient Template"
         ],
-        "translationKey": "DASHBOARD_TITLE_HEP_FORMS"
+        "translationKey": "DASHBOARD_TITLE_MENTALHEALTH_FORMS"
       }
     },
 

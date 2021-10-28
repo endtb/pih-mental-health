@@ -1274,6 +1274,9 @@
       },
       "MH, Socio-economic assistance received": {
         "multiSelect": true
+      },
+      "MH, Return visit date": {
+        "allowFutureDates" : true
       }
 
     }
