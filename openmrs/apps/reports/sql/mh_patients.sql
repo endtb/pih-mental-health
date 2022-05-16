@@ -4,7 +4,7 @@ identifier AS 'EMR ID',
 p.birthdate AS 'dob',
 FLOOR(DATEDIFF(CURDATE(), p.birthdate) / 365) AS 'age',
 p.gender,
-date_enrolled AS 'Enrollment start date',
+DATE(date_enrolled) AS 'Enrollment start date',
 (SELECT 
             name
         FROM
