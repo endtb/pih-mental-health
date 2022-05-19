@@ -249,6 +249,14 @@
     "config": {
       "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_diagnosis.sql"
     }
+  },
+
+  "MH Medications": {
+  "name": "Kazakhstan Mental Health Medications (Excel)",
+  "type": "MRSGeneric",
+  "config": {
+    "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_medications.sql"
   }
+}
 
 }
