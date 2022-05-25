@@ -257,6 +257,14 @@
   "config": {
     "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_medications.sql"
   }
+},
+
+  "MH Visits (non-CETA)": {
+  "name": "Kazakhstan Mental Health Visits (non-CETA) (Excel)",
+  "type": "MRSGeneric",
+  "config": {
+    "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_visit_non_ceta.sql"
+  }
 }
 
 }
