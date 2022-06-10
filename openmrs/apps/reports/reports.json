@@ -265,6 +265,30 @@
   "config": {
     "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_visit_non_ceta.sql"
   }
-}
+},
 
+"MH Visits (CETA)": {
+  "name": "Kazakhstan Mental Health Visits (CETA) (Numeric) (Excel)",
+  "type": "MRSGeneric",
+  "config": {
+    "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_visit_ceta_numeric.sql"
+  }
+
+},
+
+"MH CETA VISTS Text": {
+  "name": "Kazakhstan Mental Health Visits (CETA) (Text) (Excel)",
+  "type": "MRSGeneric",
+  "config": {
+    "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_visit_ceta_text.sql"
+  }
+},
+
+ "MH Social Support": {
+  "name": "Kazakhstan Mental Health Social Support (Excel)",
+  "type": "MRSGeneric",
+  "config": {
+    "sqlPath": "/var/www/bahmni_config/openmrs/apps/reports/sql/mh_social_support.sql"
+  }
+}
 }
